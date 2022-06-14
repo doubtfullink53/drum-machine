@@ -1,0 +1,33 @@
+body{
+  background-color: rgb(152, 185, 214);
+  font-weight: 600;
+  font-family: 'Courier New', Courier, monospace;
+  
+ }
+ 
+ 
+ #root{
+ position: fixed;
+   left: 50%;
+   top: 50%;
+   -webkit-transform: translate(-50%, -50%);
+   transform: translate(-50%, -50%);
+   padding: 3vh 1vh;
+   background-color: white;
+   display: table;
+   border-radius: 3%;
+   
+ }
+
+ /* #display{
+  font-size: 8vh;
+
+ } */
+
+ .p-4 {
+  padding: 1.5rem!important;
+}
+
+.m-3 {
+  margin: 0.6rem!important;
+}
